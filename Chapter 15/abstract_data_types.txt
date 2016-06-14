@@ -1,0 +1,17 @@
+Abstract Data Types - high level definition of an object that breaks an object into its attributes and behaviors
+
+Name:
+	Attributes:
+		First name, middle name, last name
+	Behaviors:
+		First-middle-last
+		Last-first-middle
+		Initials
+
+Class/object
+
+Class - definition/implementation of an ADT (abstract data type) in a programming language
+
+Object - instance of a class
+
+aName = Name('John', 'Doe') <-- aName becomes an object of the class 'Name'
