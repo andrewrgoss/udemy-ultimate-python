@@ -1,0 +1,11 @@
+Inheritance
+
+is-a relationship
+
+car is-a vehicle (base class = vehicle)
+
+manager is-a employee (base class = employee)
+
+derived class inherits attributes from the base class
+
+rectangle is-a shape
